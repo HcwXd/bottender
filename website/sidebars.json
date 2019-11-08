@@ -13,7 +13,7 @@
     "Guides (Messenger)": ["channel-messenger-setup"],
     "Guides (LINE)": ["channel-line-setup"],
     "Guides (Telegram)": ["channel-telegram-setup"],
-    "Guides (Slack)": ["channel-slack-setup"],
+    "Guides (Slack)": ["channel-slack-setup", "channel-slack-block-kit"],
     "Guides (Viber)": ["channel-viber-setup"],
     "FAQ": []
   },
